@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\source\\spout2_dx12\\private\\spout2blueprintlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\myresearch\\ue_projects\\airendering\\airendering\\intermediate\\build\\win64\\x64\\airenderingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spout2_dx12\\definitions.spout2_dx12.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Spout2_DX12.cpp.obj": [
+			"Spout2BlueprintLibrary.gen.cpp.obj",
+			"Spout2_DX12.init.gen.cpp.obj",
+			"SpoutReceiverComponent.gen.cpp.obj",
+			"SpoutSenderComponent.gen.cpp.obj",
+			"SpoutSenderSource.gen.cpp.obj",
+			"SpoutWorldPolicy.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"Spout2BlueprintLibrary.cpp.obj",
+			"Spout2_DX12.cpp.obj",
+			"SpoutReceiverComponent.cpp.obj",
+			"SpoutSenderComponent.cpp.obj"
+		]
+	}
+}

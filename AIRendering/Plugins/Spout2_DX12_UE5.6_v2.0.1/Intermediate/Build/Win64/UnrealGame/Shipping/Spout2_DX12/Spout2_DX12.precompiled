@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Spout2_DX12\\Module.Spout2_DX12.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Spout2_DX12\\Spout2BlueprintLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Spout2_DX12\\Spout2_DX12.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Spout2_DX12\\SpoutReceiverComponent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Spout2_DX12\\SpoutSenderComponent.cpp.obj"
+	]
+}

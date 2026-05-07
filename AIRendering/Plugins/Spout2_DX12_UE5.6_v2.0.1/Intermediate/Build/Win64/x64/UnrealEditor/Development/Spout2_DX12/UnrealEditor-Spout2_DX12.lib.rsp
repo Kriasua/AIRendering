@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Spout2_DX12.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/MyResearch/UE_Projects/AIRendering/AIRendering/Intermediate/Build/Win64/x64/AIRenderingEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/MyResearch/UE_Projects/AIRendering/AIRendering/Plugins/Spout2_DX12_UE5.6_v2.0.1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Spout2_DX12/Module.Spout2_DX12.cpp.obj"
+"C:/MyResearch/UE_Projects/AIRendering/AIRendering/Plugins/Spout2_DX12_UE5.6_v2.0.1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Spout2_DX12/Spout2BlueprintLibrary.cpp.obj"
+"C:/MyResearch/UE_Projects/AIRendering/AIRendering/Plugins/Spout2_DX12_UE5.6_v2.0.1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Spout2_DX12/Spout2_DX12.cpp.obj"
+"C:/MyResearch/UE_Projects/AIRendering/AIRendering/Plugins/Spout2_DX12_UE5.6_v2.0.1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Spout2_DX12/SpoutReceiverComponent.cpp.obj"
+"C:/MyResearch/UE_Projects/AIRendering/AIRendering/Plugins/Spout2_DX12_UE5.6_v2.0.1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Spout2_DX12/SpoutSenderComponent.cpp.obj"
+"C:/MyResearch/UE_Projects/AIRendering/AIRendering/Plugins/Spout2_DX12_UE5.6_v2.0.1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Spout2_DX12/Default.rc2.res"
+/OUT:"C:/MyResearch/UE_Projects/AIRendering/AIRendering/Plugins/Spout2_DX12_UE5.6_v2.0.1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Spout2_DX12/UnrealEditor-Spout2_DX12.lib"

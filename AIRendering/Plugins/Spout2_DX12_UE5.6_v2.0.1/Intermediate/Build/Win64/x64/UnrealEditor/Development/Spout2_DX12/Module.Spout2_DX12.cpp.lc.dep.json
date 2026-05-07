@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spout2_dx12\\module.spout2_dx12.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\myresearch\\ue_projects\\airendering\\airendering\\intermediate\\build\\win64\\x64\\airenderingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spout2_dx12\\definitions.spout2_dx12.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spout2blueprintlibrary.gen.cpp",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\source\\spout2_dx12\\public\\spout2blueprintlibrary.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget2d.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget2d.generated.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spout2blueprintlibrary.generated.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spout2_dx12.init.gen.cpp",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spoutreceivercomponent.gen.cpp",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\source\\spout2_dx12\\public\\spoutreceivercomponent.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\source\\spout2_dx12\\public\\spoutworldpolicy.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spoutworldpolicy.generated.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spoutreceivercomponent.generated.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spoutsendercomponent.gen.cpp",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\source\\spout2_dx12\\public\\spoutsendercomponent.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\source\\spout2_dx12\\public\\spoutsendersource.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spoutsendersource.generated.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spoutsendercomponent.generated.h",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spoutsendersource.gen.cpp",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\unrealeditor\\inc\\spout2_dx12\\uht\\spoutworldpolicy.gen.cpp",
+            "c:\\myresearch\\ue_projects\\airendering\\airendering\\plugins\\spout2_dx12_ue5.6_v2.0.1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spout2_dx12\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

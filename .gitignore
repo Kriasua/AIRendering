@@ -1,0 +1,18 @@
+# Unreal Engine generated folders
+AIRendering/.vs/
+AIRendering/Binaries/
+AIRendering/DerivedDataCache/
+AIRendering/Intermediate/
+AIRendering/Saved/
+
+# Python artifacts
+AIRenderingPy/__pycache__/
+AIRenderingPy/*.pyc
+AIRenderingPy/.idea/
+AIRenderingPy/SpoutSDK/.vs/
+AIRenderingPy/SpoutSDK/**/ipch/
+AIRenderingPy/SpoutSDK/**/x64/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
