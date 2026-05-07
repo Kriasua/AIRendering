@@ -1,0 +1,20 @@
+#include "/Engine/Public/Platform.ush"
+
+uint2 ViewRectMin;
+uint2 ViewRectMax;
+RWTexture2D<float4> RWGBufferC;
+
+[numthreads(8, 8, 1)]
+void GBufferForceRedCS(
+	uint3 DTid : SV_DispatchThreadID)
+{
+	const uint2 Pixel = DTid.xy + ViewRectMin;
+	if (any(Pixel >= ViewRectMax))
+	{
+		return;
+	}
+
+	float4 C = RWGBufferC[Pixel];
+	C.rgb = float3(1.0, 0.0, 0.0);
+	RWGBufferC[Pixel] = C;
+}
